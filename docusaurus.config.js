@@ -18,12 +18,12 @@ const config = {
   url: 'https://arvacode.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/mavicawiki/',
+  baseUrl: '/mavica_wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'arvacode', // Usually your GitHub org/user name.
-  projectName: 'mavicawiki', // Usually your repo name.
+  projectName: 'mavica_wiki', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
