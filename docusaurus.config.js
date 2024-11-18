@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Mavica Wiki',
+  tagline: 'The world\'s most powerful camera',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -76,10 +76,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Mavica Wiki',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Stamina Logo',
+          src: 'img/stamina_icon.svg',
         },
         items: [
           {
@@ -112,16 +112,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Reddit',
+                href: 'https://reddit.com/r/Mavica',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://discord.gg/yHndkmrYmt',
               },
             ],
           },
@@ -139,7 +135,10 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `
+        Copyright © ${new Date().getFullYear()} ARVACODE. Built with Docusaurus.<br>
+        This project is open source under <a href="https://opensource.org/licenses/MIT">MIT License</a>.<br>
+        Media files (images, videos, PDFs, etc.) are owned by their respective publishers.`,
       },
       prism: {
         theme: prismThemes.github,
