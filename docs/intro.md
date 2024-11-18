@@ -2,46 +2,64 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to the Mavica Wiki!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Planned Sections for the Wiki
 
-## Getting Started
+This wiki will soon contain the following sections:
 
-Get started by **creating a new site**.
+### 📚 Core Sections
+- [ ] FAQ
+- [ ] Model spec sheet
+- [ ] Contribution guide (for contributing to this knowledge base)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### 📸 Model-Specific Content
+- [ ] Photo comparisons by model
+- [ ] Individual pages for each model:
+  - [ ] Front and back photos
+  - [ ] Photos taken by the camera (with author attribution)
+  - [ ] Videos taken by the camera (with author attribution)
+  - [ ] Notes on characteristics
+  - [ ] Links to feature pages
 
-### What you'll need
+### 🛠️ Features and Guides
+- [ ] Pages on specific features (e.g., Multi-Mode)
+- [ ] General usage guides
+- [ ] What is a still video camera?
+- [ ] Getting photos onto your computer
+- [ ] Memory Stick guide
+- [ ] Floppy disk guide
+- [ ] Image sizes and disk capacities
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### ⚙️ Performance and Comparisons
+- [ ] Performance comparison grid:
+  - [ ] Images from each model camera
+  - [ ] Camera A vs Camera B in specific tests
 
-## Generate a new site
+### 👥 Community
+- [ ] The community:
+  - [ ] References to join the Discord and Reddit
+- [ ] Notable members of the community
+- [ ] Captured on Mavica: The Sony Mavica in History (e.g., 9/11 photo taken on Mavica)
 
-Generate a new Docusaurus site using the **classic template**.
+### 📖 Documentation and Manuals
+- [ ] All manuals
+- [ ] Accessories and custom projects:
+  - [ ] IR mods
+  - [ ] Lens filters
+  - [ ] Battery mods
 
-The classic template will automatically be added to your project after you run the command:
+### 💸 Buying Guides
+- [ ] Sourcing batteries
+- [ ] Buying a Mavica
+- [ ] Buying CDs, floppies, and Memory Sticks (capacities, sources)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### 🛠️ Troubleshooting and Repairs
+- [ ] Troubleshooting guides (including excerpts from manuals)
+- [ ] Community repair and modification guides
+  - [ ] Scripts for adding padding
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 📺 Historical and Contemporary Content
+- [ ] Contemporary news, ads, promo material, boxes, etc.
+- [ ] Mavica today (blog feature?):
+  - [ ] News related to Mavica, mentions, and appearances
