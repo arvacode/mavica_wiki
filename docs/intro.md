@@ -17,13 +17,13 @@ This wiki will soon contain the following sections:
 - [ ] Photo comparisons by model
 - [ ] Individual pages for each model:
   - [ ] Front and back photos
-  - [ ] Photos taken by the camera (with author attribution)
-  - [ ] Videos taken by the camera (with author attribution)
+  - [ ] Photos taken using the camera (with author attribution)
+  - [ ] Videos taken using the camera (with author attribution)
   - [ ] Notes on characteristics
   - [ ] Links to feature pages
 
 ### 🛠️ Features and Guides
-- [ ] Pages on specific features (e.g., Multi-Mode)
+- [ ] Pages on specific features (e.g., Multi-Mode, picture fx)
 - [ ] General usage guides
 - [ ] What is a still video camera?
 - [ ] Getting photos onto your computer
