@@ -20,13 +20,13 @@ jobs:
     steps:
       # Step 1: Checkout the repository
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to the latest version
 
       # Step 2: Setup Node.js environment
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4 # Updated to the latest version
         with:
-          node-version: 18
+          node-version: 20 # Use Node.js 20
 
       # Step 3: Install dependencies
       - name: Install dependencies
@@ -53,4 +53,4 @@ jobs:
       # Step 1: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v2 # Ensure the latest version is used
