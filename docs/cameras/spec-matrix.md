@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Model Spec Matrix
+# Spec Matrix
 
 | Model | Year | MP   | Resolution | H. Res | V. Res | Optical Zoom | Macro  | Focal Length Min. | Focal Length Max | Max Aperture | Manual Focus | Picture Effects | Program AE | Pics/Disk | MS Slot | Viewfinder | SteadyShot | Multi-Mode | Thread Size | Sensor Size | Battery | Manual                                                                            |
 | ----- | ---- | ---- | ---------- | ------ | ------ | ------------ | ------ | ----------------- | ---------------- | ------------ | ------------ | --------------- | ---------- | --------- | ------- | ---------- | ---------- | ---------- | ----------- | ----------- | ------- | --------------------------------------------------------------------------------- |
