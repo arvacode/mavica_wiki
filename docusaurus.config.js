@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'guideSidebar',
             position: 'left',
-            label: 'Guide',
+            label: 'Explore',
           },
           {to: 'https://reddit.com/r/mavica', label: 'r/Mavica', position: 'left'},
           {to: 'https://discord.gg/yHndkmrYmt', label:'Discord', position: 'left'},
