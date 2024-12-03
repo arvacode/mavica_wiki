@@ -32,8 +32,9 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      //title={`Hello from ${siteConfig.title}`}
+      title={`Welcome to the Mavica Wiki`}
+      description="Discover the timeless innovation and artistry of Sony's Mavica line.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
