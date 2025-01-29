@@ -119,9 +119,9 @@ const config = {
           },
         ],
         copyright: `
-        Copyright © ${new Date().getFullYear()} ARVACODE. Built with Docusaurus.<br>
-        This project is open source under <a href="https://opensource.org/licenses/MIT">MIT License</a>.<br>
-        Media files (images, videos, PDFs, etc.) are owned by their respective publishers.`,
+        Wiki by <a href="https://youtube.com/arvacode">ARVACODE</a>, CC BY-SA ${new Date().getFullYear()}<br>
+        Built with Docusaurus, open source MIT<br>
+        Media rights belong to their respective publishers<br>`,
       },
       prism: {
         theme: prismThemes.github,
